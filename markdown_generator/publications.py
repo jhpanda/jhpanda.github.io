@@ -64,6 +64,12 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
+    #print(item.pub_date)
+    #print(item.title)
+    #print(item.excerpt)
+    #print(item.citation)
+    #print(item.url_slug)
+    #print(item.paper_url)
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
     year = item.pub_date[:4]
@@ -81,6 +87,7 @@ for row, item in publications.iterrows():
     
     md += "\ndate: " + str(item.pub_date) 
     
+    #print(html_escape(item.venue))
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
     if len(str(item.paper_url)) > 5:
