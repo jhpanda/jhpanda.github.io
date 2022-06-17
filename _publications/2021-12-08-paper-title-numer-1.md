@@ -9,7 +9,7 @@ paperurl: '<a href="https://doi.org/10.1093/molbev/msab350">Link</a> <a href="ht
 citation: 'Junhui Peng, Nicolas Svetec, Li Zhao: Intermolecular interactions drive protein adaptive and co-adaptive evolution at both species and population levels. Mol Biol Evol 2022; 39 (1).'
 ---
 
-<a href='<a href="https://doi.org/10.1093/molbev/msab350">Link</a> <a href="http://academicpages.github.io/files/paper1.pdf">PDF</a>'>Download paper here</a>
+<a href="https://doi.org/10.1093/molbev/msab350">Link</a> <a href="http://academicpages.github.io/files/paper1.pdf">PDF</a>
 
 Intermolecular interactions drive protein adaptive and co-adaptive evolution at both species and population levels
 
