@@ -9,7 +9,7 @@ author_profile: true
   <p>You can also find my articles on <u><a href="https://scholar.google.com/citations?user=c5EdqCYAAAAJ&hl=en">my Google Scholar profile</a>.</u></p>
 {% endif %}
 -->
-<p>Full list can be found at <a href="https://scholar.google.com/citations?user=c5EdqCYAAAAJ&hl=en">my Google Scholar profile</a>.</p>
+<p>Selected publications, full list can be found at <a href="https://scholar.google.com/citations?user=c5EdqCYAAAAJ&hl=en">my Google Scholar profile</a>.</p>
 
 {% include base_path %}
 
