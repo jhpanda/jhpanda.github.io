@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<p>For PDF version, <a href="https://jhpanda.github.io/files/JunhuiPeng_CV.pdf">click here</a>.</p> 
-<p>Return to <a href="https://jhpanda.github.io">Junhui's homepage</a>.</p> 
-<p>Jump to <a href="https://jhpanda.github.io/publications">Junhui's Publications</a></p>
+<p>For PDF version, <a href="https://jhpanda.github.io/files/JunhuiPeng_CV.pdf">click here</a>.<br>
+Return to <a href="https://jhpanda.github.io">Junhui's homepage</a>.<br>
+Jump to <a href="https://jhpanda.github.io/publications">Junhui's Publications</a></p>
 
 {% include base_path %}
 
