@@ -10,7 +10,8 @@ redirect_from:
 
 Publications
 ======
-Selected [publications](https://academicpages.github.io/publications)
+Selected [Publications](https://academicpages.github.io/publications)
 
 CV
+======
 Personal resume [CV](https://academicpages.github.io/CV)
