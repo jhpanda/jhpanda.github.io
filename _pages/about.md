@@ -14,4 +14,4 @@ Selected [Publications](https://jhpanda.github.io/publications).
 
 CV
 ======
-Personal resume [CV](https://jhpanda.github.io/CV).
+Personal resume [CV](https://jhpanda.github.io/cv).
