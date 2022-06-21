@@ -9,7 +9,9 @@ author_profile: true
   <p>You can also find my articles on <u><a href="https://scholar.google.com/citations?user=c5EdqCYAAAAJ&hl=en">my Google Scholar profile</a>.</u></p>
 {% endif %}
 -->
-<p>Selected publications, full list can be found at <a href="https://scholar.google.com/citations?user=c5EdqCYAAAAJ&hl=en">my Google Scholar profile</a>. Return to <a href="https://jhpanda.github.io">Junhui's homepage</a>. Jump to <a href="https://jhpanda.github.io/cv">Junhui's CV</a></p>
+<p>Selected publications, full list can be found at <a href="https://scholar.google.com/citations?user=c5EdqCYAAAAJ&hl=en">my Google Scholar profile</a>.</p> 
+<p>Return to <a href="https://jhpanda.github.io">Junhui's homepage</a>.</p> 
+<p>Jump to <a href="https://jhpanda.github.io/cv">Junhui's CV</a></p>
 
 {% include base_path %}
 
