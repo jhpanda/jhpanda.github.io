@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I study protein dynamics and evolution
 
 Publications
 ======
-Selected [Publications](https://jhpanda.github.io/publications).
+View my selected [Publications](https://jhpanda.github.io/publications) and <a href="https://scholar.google.com/citations?user=c5EdqCYAAAAJ&hl=en">Google Scholar profile</a>.
 
 CV
 ======
