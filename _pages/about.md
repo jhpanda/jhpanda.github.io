@@ -16,4 +16,4 @@ View my selected [Publications](https://jhpanda.github.io/publications) and <a h
 
 CV
 ======
-Personal resume [CV](https://jhpanda.github.io/cv), PDF version <a href="https://jhpanda.github.io/files/JunhuiPeng_CV.pdf">(click here)</a>.
+For personal resume, [Go to CV page](https://jhpanda.github.io/cv), for PDF version, <a href="https://jhpanda.github.io/files/JunhuiPeng_CV.pdf">click here</a>.
