@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at Rockefeller University at <a href="https://zhaolab.rockefeller.edu">Dr. Li Zhao's lab </a>. My long term goal is to study how evolution give rise to novel protein structure, protein dynamics, and protein-protein interactions (PPI). To do this, I used a set of special genes, known as <i>de novo</i> genes, as these genes enable us to better track their origination and evolution compared to other genes. In Zhao Lab, I developed a pipeline to identify <i>de novo</i> genes in <i>Drosophila melangoaster</i> (fruit fly). I used AlphaFold2 and molecular dynamics simulations to chracterize the 3D structures of their protein products. The work shades light on how evolution give rise to novel protein structures.
+I am currently a postdoctoral researcher at Rockefeller University at <a href="https://zhaolab.rockefeller.edu">Dr. Li Zhao's lab </a>. My long term goal is to study how evolution give rise to novel protein structure, protein dynamics, and protein-protein interactions (PPI). To do this, I used a set of special genes, known as <i>de novo</i> genes, as these genes enable us to better track their origination and evolution compared to other genes. In Zhao Lab, I developed a pipeline to identify <i>de novo</i> genes in <i>Drosophila melangoaster</i> (fruit fly). I used AlphaFold2 and molecular dynamics simulations to chracterize the 3D structures of their protein products. The work sheds light on how evolution give rise to novel protein structures.
 
 
 Publications
