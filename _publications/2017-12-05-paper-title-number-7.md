@@ -8,9 +8,8 @@ venue: 'Structure'
 paperurl: '<a href="https://www.sciencedirect.com/science/article/pii/S0969212617303040">Link</a> <a href="https://jhpanda.github.io/files/paper5.pdf">PDF</a>'
 citation: 'Ling Xu, Lijun Wang, <b>Junhui Peng</b>, Fudong Li, Lijie Wu, Beibei Zhang, Mengqi Lv, Jiahai Zhang, Qingguo Gong, Rongguang Zhang, Xiaobing Zuo, Zhiyong Zhang, Jihui Wu, Yajun Tang, Yunyu Shi, Insights into the Structure of Dimeric RNA Helicase CsdA and Indispensable Role of Its C-Terminal Regions, <b>Structure</b> 2017; 25 (12).'
 ---
-
-<a href="https://www.sciencedirect.com/science/article/pii/S0969212617303040">Link</a> <a href="https://jhpanda.github.io/files/paper5.pdf">PDF</a>
-
 Description
+
+[Download paper here](<a href="https://www.sciencedirect.com/science/article/pii/S0969212617303040">Link</a> <a href="https://jhpanda.github.io/files/paper5.pdf">PDF</a>)
 
 Recommended citation: Ling Xu, Lijun Wang, <b>Junhui Peng</b>, Fudong Li, Lijie Wu, Beibei Zhang, Mengqi Lv, Jiahai Zhang, Qingguo Gong, Rongguang Zhang, Xiaobing Zuo, Zhiyong Zhang, Jihui Wu, Yajun Tang, Yunyu Shi, Insights into the Structure of Dimeric RNA Helicase CsdA and Indispensable Role of Its C-Terminal Regions, <b>Structure</b> 2017; 25 (12).

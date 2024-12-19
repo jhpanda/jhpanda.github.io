@@ -62,6 +62,7 @@ def html_escape(text):
 # In[5]:
 
 import os
+idx = 1
 for row, item in publications.iterrows():
     
     #print(item.pub_date)
@@ -70,9 +71,11 @@ for row, item in publications.iterrows():
     #print(item.citation)
     #print(item.url_slug)
     #print(item.paper_url)
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
+    url_slug = "paper-title-number-%d"%idx
+    md_filename = str(item.pub_date) + "-" + url_slug + ".md"
+    html_filename = str(item.pub_date) + "-" + url_slug
     year = item.pub_date[:4]
+    idx += 1
     
     ## YAML variables
     
