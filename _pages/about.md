@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at Rockefeller University at <a href="https://zhaolab.rockefeller.edu">Dr. Li Zhao's lab </a>. My long term goal is to study how evolution give rise to novel protein structure, protein dynamics, and protein-protein interactions (PPI). To do this, I used a set of special genes, known as <i>de novo</i> genes, as these genes enable us to better track their origination and evolution compared to other genes. In Zhao Lab, I developed a pipeline to identify <i>de novo</i> genes in <i>Drosophila melangoaster</i> (fruit fly). I used AlphaFold2 and molecular dynamics simulations to chracterize the 3D structures of their protein products. The work sheds light on how evolution give rise to novel protein structures.
-
+I am currently a postdoctoral researcher at Rockefeller University at <a href="https://zhaolab.rockefeller.edu">Dr. Li Zhao's lab </a>. My long term goal is to study how evolution give rise to novel protein structure, protein dynamics, and protein-protein interactions (PPI) and how evolution shape the complex cellular machinary. This is essential to understand how genetic novelty give rise to phenotypical innovation. This also can help to understand how evolutionary new genes are related with health and diseases. To do this, I use a set of special genes, known as <i>de novo</i> genes, as these genes enable us to better track their origination and evolution compared to other genes. My work involves three directions.  
+    (1). Develope comprehensive computational pipelines that integrate comparative genomics, multi-omics, and population genomics, to identify <i>de novo</i> genes in <i>Drosophila melangoaster</i> (fruit fly).  
+    (2) Apply large scale computational biophysics to study the <i>de novo</i> protein structures and their protein-protein interactions.   
+    (3) Combine molecular evolution and machine learning techniques to study how evolution give rise to novel protein structures and protein-protein interactions, and how evolution shape the complex cellular machinary.  
 
 Publications
 ======
